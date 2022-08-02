@@ -1,0 +1,368 @@
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.exe
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.deps.json
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.json
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.dev.json
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Nest.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Prism.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.pdb
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.pdb
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.AssemblyReference.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfoInputs.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfo.cs
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CoreCompileInputs.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.Manifest.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.xml
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\PaymentandFeedback.API.styles.css
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.RazorTargetAssemblyInfo.cache
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CopyComplete
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\RMS-proj\Feedbackreport\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.genruntimeconfig.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.exe
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.deps.json
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.json
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.dev.json
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Nest.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Prism.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.pdb
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.pdb
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.AssemblyReference.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfoInputs.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfo.cs
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CoreCompileInputs.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cs
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.Manifest.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.xml
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\PaymentandFeedback.API.styles.css
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.RazorTargetAssemblyInfo.cache
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CopyComplete
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\RMS-proj\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.genruntimeconfig.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.AssemblyReference.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfoInputs.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfo.cs
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CoreCompileInputs.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.StaticWebAssets.xml
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.exe
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.deps.json
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.json
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.dev.json
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.dll
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.pdb
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.pdb
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.Manifest.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.RazorTargetAssemblyInfo.cache
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CopyComplete
+C:\Users\RELIANCE\Desktop\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.genruntimeconfig.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.StaticWebAssets.xml
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.exe
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.deps.json
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.json
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.dev.json
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Nest.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Prism.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.pdb
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.pdb
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.AssemblyReference.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfoInputs.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfo.cs
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CoreCompileInputs.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.Manifest.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.RazorTargetAssemblyInfo.cache
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CopyComplete
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+C:\Users\RELIANCE\Desktop\New folder\PaymentandFeedbackManagement\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.genruntimeconfig.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.exe
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.deps.json
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.json
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.runtimeconfig.dev.json
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Elasticsearch.Net.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Nest.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Prism.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Domain.pdb
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\bin\Debug\netcoreapp3.1\PaymentandFeedback.Infrastructure.pdb
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.AssemblyReference.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfoInputs.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.AssemblyInfo.cs
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CoreCompileInputs.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cs
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.MvcApplicationPartsAssemblyInfo.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.Manifest.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\staticwebassets\PaymentandFeedback.API.StaticWebAssets.xml
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\PaymentandFeedback.API.styles.css
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.RazorTargetAssemblyInfo.cache
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.csproj.CopyComplete
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.dll
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.pdb
+D:\POD3\OnlineBookStore\Payment Management\Feedbackreport.API\obj\Debug\netcoreapp3.1\PaymentandFeedback.API.genruntimeconfig.cache
